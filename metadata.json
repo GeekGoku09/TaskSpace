@@ -1,0 +1,6 @@
+{
+  "name": "Todo Application",
+  "description": "A multi-page React Todo Application with an Express backend and JSON file persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
